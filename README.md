@@ -1,3 +1,5 @@
+                                                         EGY_FWD ADVANCED FULL_STACK WEB DEVELOPMENT PROGRAM
+
 # Image Processing API
 
 This project aims to give you a real-world scenario in which you would read and write to your disk via a Node.js express server rather than a database. The project you create serves two purposes: to prepare you for setting up scalable code and architecture for real-world projects and tie together some of the most popular middleware and utilities found in Node.js projects. This project barely touches the surface of what is possible but will prove your ability to use what you’ve learned in real-world scenarios.
@@ -56,6 +58,7 @@ Feel free to attempt to create this project based on the overview and rubric spe
 
 Although not a requirement, we recommend using Git from the very beginning if you choose to build on your local environment or use the provided workspace. Make sure to commit often and to use well-formatted commit messages.
 
-## License
+## Starter Code
 https://github.com/udacity/cd0292-building-a-server-project-starter/tree/master/images
+## License
 [License](LICENSE.txt)
