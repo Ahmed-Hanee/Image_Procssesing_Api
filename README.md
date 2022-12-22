@@ -8,7 +8,7 @@ For this project, refactor and test as much as possible while you are building. 
 
 Usually, you would get some starter code to build from, but with this project, it’s your job to prove you can do it from scratch, so all that is being provided for you is a folder of license-free stock images you are welcome to use. If you would like to use your own images for this project, you are welcome to do so, but whoever reviews your project will see your images, and when you display your project online, viewers will also see them.
 
-You can use your own images or use the ones provided in this repo: [images](images)
+https://user-images.githubusercontent.com/95107740/209141536-f5e0a21a-f476-449c-a051-e6fde848dc00.mp4
 
 ## Instructions
 
